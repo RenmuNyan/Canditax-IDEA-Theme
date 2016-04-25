@@ -31,7 +31,8 @@
 5.  然后就……结束啦，Enjoy it.
 
 ## Support
-NEW:尝试了Java的Hello World 好像支持不错的样纸？
+NEW:尝试了*Java*的Hello World 好像支持不错的样纸？
+
 其他的不知道，因为只用*JavaScript* (不要打我！｡･ﾟ(ﾟ⊃ω⊂ﾟ)ﾟ･｡)...So
 - [x] JavaScript
 - [x] HTML
