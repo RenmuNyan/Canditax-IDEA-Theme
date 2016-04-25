@@ -2,7 +2,7 @@
 一个用在IntelliJ IDEA, PhpStorm, PyCharm, RubyMine,(以上所述都没尝试过，别打我( >﹏<。) WebStorm的主题。
 自己在用的噢，感觉这个颜色既护眼又清新（balabala
 
-![](./screenshots.jpg)
+![](./screenshots.png)
 
 ## Install?
 这里提供两种方法！
